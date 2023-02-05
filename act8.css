@@ -1,0 +1,23 @@
+h1{
+    text-align: center;
+}
+.roman{
+    list-style-type: upper-roman;
+}
+.letters
+{
+    list-style-type:upper-alpha;
+
+}
+.pink{
+    background-color: pink;
+    font-size: 19px;
+}
+.pinkp{
+    background-color: rgb(251, 158, 174);
+    font-size: 19px;
+}
+.pinkc{
+    background-color: rgb(251, 119, 141);
+    font-size: 19px;
+}
